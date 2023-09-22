@@ -4,7 +4,7 @@
 1. First, clone this repository:
 
 ```
-git clone https://github.com/huasurongpumch/surgtoolloc2023/tree/master
+git clone https://github.com/huasurongpumch/surgtoolloc2023.git
 ```
 2. Download [Our RTMDetL weights]() and put it under `$PROJECT_ROOT$/mmyolo-0.5.0/my_docker/rtml/` named `rtm_l.pth`
 
